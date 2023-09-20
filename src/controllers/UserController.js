@@ -1,4 +1,4 @@
-import User from "../models/Aluno"
+import User from "../models/User"
 
 class UserController{
     async store(req,res){
